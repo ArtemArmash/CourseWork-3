@@ -1,0 +1,61 @@
+3
+Buyer.Name: Андрій Ковальчук
+Buyer.Email: andrii.k@example.com
+Buyer.OrdersCount: 2
+Buyer.Order[0]: ---BEGIN---
+Order.ID: 1
+Date.Valid: 1
+Date.Value: 2024-05-30
+Order.ProductsCount: 2
+Order.Product[0]: ---BEGIN---
+Product.Name: Молоко Ферма 2.5%
+Product.Quantity: 3
+Date.Valid: 0
+Product.Price: 38
+Order.Product[0]: ---END---
+Order.Product[1]: ---BEGIN---
+Product.Name: Хліб Український
+Product.Quantity: 1
+Date.Valid: 0
+Product.Price: 29
+Order.Product[1]: ---END---
+Order.TotalPrice: 143
+Buyer.Order[0]: ---END---
+Buyer.Order[1]: ---BEGIN---
+Order.ID: 3
+Date.Valid: 1
+Date.Value: 2024-05-25
+Order.ProductsCount: 1
+Order.Product[0]: ---BEGIN---
+Product.Name: Яблука Голден
+Product.Quantity: 5
+Date.Valid: 0
+Product.Price: 30
+Order.Product[0]: ---END---
+Order.TotalPrice: 150
+Buyer.Order[1]: ---END---
+Buyer.Name: Олена Мельник
+Buyer.Email: olena.m@example.com
+Buyer.OrdersCount: 1
+Buyer.Order[0]: ---BEGIN---
+Order.ID: 2
+Date.Valid: 1
+Date.Value: 2024-05-28
+Order.ProductsCount: 2
+Order.Product[0]: ---BEGIN---
+Product.Name: Сир Гауда
+Product.Quantity: 1
+Date.Valid: 0
+Product.Price: 300
+Order.Product[0]: ---END---
+Order.Product[1]: ---BEGIN---
+Product.Name: Яблука Голден
+Product.Quantity: 2
+Date.Valid: 0
+Product.Price: 30
+Order.Product[1]: ---END---
+Order.TotalPrice: 360
+Buyer.Order[0]: ---END---
+Buyer.Name: Сергій Ткаченко
+Buyer.Email: serhii.t@example.com
+Buyer.OrdersCount: 0

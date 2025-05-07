@@ -1,0 +1,64 @@
+3
+Store.Name: Супермаркет Добрий Кошик
+Store.Type: Супермаркет
+Store.Location: м. Київ, вул. Велика, 15
+Store.ProductsCount: 4
+Store.Product[0]: ---BEGIN---
+Product.Name: Молоко Ферма 2.5%
+Product.Quantity: 30
+Date.Valid: 0
+Product.Price: 39
+Store.Product[0]: ---END---
+Store.Product[1]: ---BEGIN---
+Product.Name: Хліб Український
+Product.Quantity: 50
+Date.Valid: 0
+Product.Price: 30
+Store.Product[1]: ---END---
+Store.Product[2]: ---BEGIN---
+Product.Name: Сир Гауда
+Product.Quantity: 15
+Date.Valid: 0
+Product.Price: 310
+Store.Product[2]: ---END---
+Store.Product[3]: ---BEGIN---
+Product.Name: Яблука Голден
+Product.Quantity: 100
+Date.Valid: 0
+Product.Price: 32
+Store.Product[3]: ---END---
+Store.SellersCount: 0
+Store.Name: Магазин Біля Дому
+Store.Type: Магазин
+Store.Location: м. Львів, вул. Затишна, 3
+Store.ProductsCount: 2
+Store.Product[0]: ---BEGIN---
+Product.Name: Молоко Ферма 2.5%
+Product.Quantity: 10
+Date.Valid: 0
+Product.Price: 40
+Store.Product[0]: ---END---
+Store.Product[1]: ---BEGIN---
+Product.Name: Хліб Український
+Product.Quantity: 20
+Date.Valid: 0
+Product.Price: 31
+Store.Product[1]: ---END---
+Store.SellersCount: 0
+Store.Name: Кіоск Свіжі Продукти
+Store.Type: Кіоск
+Store.Location: м. Київ, перехрестя Головної та Паркової
+Store.ProductsCount: 2
+Store.Product[0]: ---BEGIN---
+Product.Name: Молоко Ферма 2.5%
+Product.Quantity: 5
+Date.Valid: 0
+Product.Price: 42
+Store.Product[0]: ---END---
+Store.Product[1]: ---BEGIN---
+Product.Name: Хліб Український
+Product.Quantity: 10
+Date.Valid: 0
+Product.Price: 32
+Store.Product[1]: ---END---
+Store.SellersCount: 0

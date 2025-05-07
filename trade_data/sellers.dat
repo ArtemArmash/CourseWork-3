@@ -1,0 +1,83 @@
+3
+Seller.ID: 1
+Seller.Name: Вікторія Павленко
+Seller.Salary: 10000
+Seller.SalesCount: 2
+Seller.Sale[0]: ---BEGIN---
+Sale.ID: 1
+Sale.SellerID: 1
+Sale.BuyerEmail: andrii.k@example.com
+Date.Valid: 1
+Date.Value: 2024-05-30
+Sale.StoreName: Супермаркет Добрий Кошик
+Sale.ProductsCount: 2
+Sale.Product[0]: ---BEGIN---
+Product.Name: Молоко Ферма 2.5%
+Product.Quantity: 1
+Date.Valid: 0
+Product.Price: 39
+Sale.Product[0]: ---END---
+Sale.Product[1]: ---BEGIN---
+Product.Name: Хліб Український
+Product.Quantity: 1
+Date.Valid: 0
+Product.Price: 30
+Sale.Product[1]: ---END---
+Sale.TotalPrice: 69
+Seller.Sale[0]: ---END---
+Seller.Sale[1]: ---BEGIN---
+Sale.ID: 4
+Sale.SellerID: 1
+Sale.BuyerEmail: 
+Date.Valid: 1
+Date.Value: 2024-05-29
+Sale.StoreName: Кіоск Свіжі Продукти
+Sale.ProductsCount: 1
+Sale.Product[0]: ---BEGIN---
+Product.Name: Хліб Український
+Product.Quantity: 1
+Date.Valid: 0
+Product.Price: 32
+Sale.Product[0]: ---END---
+Sale.TotalPrice: 32
+Seller.Sale[1]: ---END---
+Seller.ID: 2
+Seller.Name: Максим Григоренко
+Seller.Salary: 9800
+Seller.SalesCount: 1
+Seller.Sale[0]: ---BEGIN---
+Sale.ID: 2
+Sale.SellerID: 2
+Sale.BuyerEmail: olena.m@example.com
+Date.Valid: 1
+Date.Value: 2024-05-28
+Sale.StoreName: Супермаркет Добрий Кошик
+Sale.ProductsCount: 1
+Sale.Product[0]: ---BEGIN---
+Product.Name: Сир Гауда
+Product.Quantity: 1
+Date.Valid: 0
+Product.Price: 310
+Sale.Product[0]: ---END---
+Sale.TotalPrice: 310
+Seller.Sale[0]: ---END---
+Seller.ID: 3
+Seller.Name: Наталія Лисенко
+Seller.Salary: 9500
+Seller.SalesCount: 1
+Seller.Sale[0]: ---BEGIN---
+Sale.ID: 3
+Sale.SellerID: 3
+Sale.BuyerEmail: serhii.t@example.com
+Date.Valid: 1
+Date.Value: 2024-05-31
+Sale.StoreName: Магазин Біля Дому
+Sale.ProductsCount: 1
+Sale.Product[0]: ---BEGIN---
+Product.Name: Молоко Ферма 2.5%
+Product.Quantity: 2
+Date.Valid: 0
+Product.Price: 40
+Sale.Product[0]: ---END---
+Sale.TotalPrice: 80
+Seller.Sale[0]: ---END---

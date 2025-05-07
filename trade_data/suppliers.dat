@@ -1,0 +1,45 @@
+3
+Supplier.Name: Фоззі Фуд Сервіс
+Supplier.ContactInfo: Київ, вул. Промислова, 10
+Supplier.ProductsCount: 2
+Supplier.Product[0]: ---BEGIN---
+Product.Name: Молоко Ферма 2.5%
+Product.Quantity: 120
+Date.Valid: 1
+Date.Value: 2024-05-25
+Product.Price: 33.5
+Supplier.Product[0]: ---END---
+Supplier.Product[1]: ---BEGIN---
+Product.Name: Хліб Український
+Product.Quantity: 250
+Date.Valid: 1
+Date.Value: 2024-05-29
+Product.Price: 26
+Supplier.Product[1]: ---END---
+Supplier.Name: Галичина-Захід Постач
+Supplier.ContactInfo: Львів, вул. Городоцька, 200
+Supplier.ProductsCount: 2
+Supplier.Product[0]: ---BEGIN---
+Product.Name: Сир Гауда
+Product.Quantity: 60
+Date.Valid: 1
+Date.Value: 2024-05-20
+Product.Price: 280
+Supplier.Product[0]: ---END---
+Supplier.Product[1]: ---BEGIN---
+Product.Name: Молоко Ферма 2.5%
+Product.Quantity: 80
+Date.Valid: 1
+Date.Value: 2024-05-26
+Product.Price: 33
+Supplier.Product[1]: ---END---
+Supplier.Name: ОвочіФрукти Опт
+Supplier.ContactInfo: Херсон, шосе Оптове, 5
+Supplier.ProductsCount: 1
+Supplier.Product[0]: ---BEGIN---
+Product.Name: Яблука Голден
+Product.Quantity: 500
+Date.Valid: 1
+Date.Value: 2024-05-22
+Product.Price: 25
+Supplier.Product[0]: ---END---
